@@ -27,7 +27,7 @@
   },
   "files": [
     "dist",
-    "types/index.d.ts",
+    "types/*.d.ts",
     "types/src/*"
   ],
   "exports": {
